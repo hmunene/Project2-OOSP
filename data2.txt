@@ -1,0 +1,16 @@
+Pens,123,2.99,2.0,12,5,0,Stationery
+Text Books,124,12.99,2.0,14,5,0.1,Stationery
+Laptop,125,22.99,2.0,16,5,0,Electronics
+Mouse,126,32.99,2.0,18,5,0.15,Electronics
+Pens,123,2.99,2.0,12,5,0,Stationery
+Text Books,124,12.99,2.0,14,5,0.1,Stationery
+Laptop,125,22.99,2.0,16,5,0,Electronics
+Mouse,126,32.99,2.0,18,5,0.15,Electronics
+Pens,123,2.99,2.0,12,5,0,Stationery
+Text Books,124,12.99,2.0,14,5,0.1,Stationery
+Laptop,125,22.99,2.0,16,5,0,Electronics
+Mouse,126,32.99,2.0,18,5,0.15,Electronics
+Pens,123,2.99,2.0,12,5,0,Stationery
+Text Books,124,12.99,2.0,14,5,0.1,Stationery
+Laptop,125,22.99,2.0,16,5,0,Electronics
+Mouse,126,32.99,2.0,18,5,0.15,Electronics
